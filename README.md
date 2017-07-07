@@ -1,4 +1,6 @@
-#HELLO
+#HelloWorld
 
-Hello - aka HELL 0... get it?
-AAh, maybe not.
+Hello. World. Hello world.
+
+This is a hello world github project, mainly to help me xperiment and familiarize myself with git.
+
